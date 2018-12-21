@@ -1,3 +1,3 @@
 # Andrew Geston portfolio website
 
-A work in progess
+A work in progess.
